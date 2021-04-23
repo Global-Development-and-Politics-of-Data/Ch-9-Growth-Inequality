@@ -20,40 +20,6 @@ In terms of research design, our data work is important because it prepares the 
 - Data sourcing
 - Visualization analysis
 
-.. list-table:: Title
-	:widths: 25 25 50
-	:header-rows: 1
-
-	* - Learning Objective
-      - Exercise
-      - Reason
-    * - Examining disaggregated growth data
-      - 1
-      - This will enable the student to compare difference in portraying the same information, and finding nuances hidden in aggregate data
-	* - Using politics to present data
-      - 1
-      - This skill will aid in framing the data and indicators according to a narrative
-    * - Choosing visualization types and creating them
-      - 2
-      - This basic visualization skill to show initial steps to present data
-    * - Data management practice
-      - 1-2
-      - Practice of data management and tidy data to ease scientific production and reproducibility
-    * - Data sourcing
-      - 2
-      - Identification of data sources and possible differences of content
-    * - Visualization analysis
-      - 2
-      - Analysis of consequences in information conveyed by visualizations.
-    * - Methodology analysis
-      - 2
-      - This skill enables the student to identify nuances in variables across datasets. Two variables might be named identically but populated in a different way 
-    * - Basic mapping visualization skills
-      - 3
-      - Students will be able to observe information on maps
-    * - Color visualization in maps
-      - 3
-      - Students will discern possible misrepresentations of data due to color mismatch
 
   
 
